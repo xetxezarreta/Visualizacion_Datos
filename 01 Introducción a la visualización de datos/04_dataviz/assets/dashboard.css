@@ -1,0 +1,29 @@
+body {
+  margin: 40px;
+  background-color: #595758;
+}
+
+.graph-with-slider {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  background-color:  #595758;
+  color:  #595758;
+}
+
+.wrapper2 {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  background-color:  #595758;
+  color:  #595758;
+}
+.box {
+  background-color: #f2ebe2;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+  font-family: 'Helvetica';
+}
+
